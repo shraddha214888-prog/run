@@ -1,0 +1,6 @@
+{
+  "name": "૧૦૮ રક્ષક",
+  "description": "એમ્બ્યુલન્સ ઇમરજન્સી કોરિડોર, ટ્રાફિક સિગ્નલ કંટ્રોલ અને હોસ્પિટલ જીપીએસ નેવિગેશન એપ્લિકેશન.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

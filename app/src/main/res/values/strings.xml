@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">૧૦૮ રક્ષક</string>
+    <string name="app_tagline">ઇમરજન્સી એમ્બ્યુલન્સ કોરિડોર અને ટ્રાફિક ક્લિયરન્સ</string>
+    <string name="emergency_mode_title">ઇમરજન્સી લાઈવ કંટ્રોલ</string>
+    <string name="siren_alert">સાવધાન: ૧૦૮ એમ્બ્યુલન્સ નજીક છે!</string>
+    <string name="give_way_action">કૃપા કરીને ડાબી બાજુ ખસીને રસ્તો આપો</string>
+</resources>
